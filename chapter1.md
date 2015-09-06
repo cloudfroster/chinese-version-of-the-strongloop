@@ -1,8 +1,8 @@
 # 简介
 
-Strongloop是一个建立在nodejs上的API平台.
+StrongLoop是一个基于nodejs的API平台.
 
-这个平台包括如下的内容:
+StrongLoop包括如下的内容:
 * 
 **LoopBack** 一个基于express的nodejs开源框架
 * 
