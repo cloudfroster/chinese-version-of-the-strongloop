@@ -312,11 +312,37 @@ loopBack
 
 * 
 StrongLoop API 网关
+    * 启动API网关
+    * 配置策略
+    * 注册客户端
+    * 开发者指南
+
 
 * 
 消息传递
+    * 构建一个实时应用程序使用socket.io和AngularJS
+    * Pub-sub
+        * pubsub桥梁
+        * MQTT
+        * 连接MQTT
+        * Redis
+        * Primus
+        * 酒馆例子
+        * LoopBack酒馆例子
+    * 增强远程方法 
+
 
 * 参考
+    * 常见问题
+    * 术语
+    * 命令行指南
+    * Arc发布说明
+    * 最近文档更新
+    * 其他StrongLoop模块
+
 
 * 
 所有版本
+    * StrongLoop 2.0
+    * StrongLoop 1.x
+    * PDF版本
