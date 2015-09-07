@@ -155,15 +155,31 @@ loopBack
         * 数据库连接器
             * 内存连接器
             * MongoDB连接器
+                * 连接到MongoDB
+                * 使用MongoLab
             * MySQL连接器
+                * 连接到MySQL
             * Oracle连接器
                 * 安装Oracle连接器
                 * 连接到Oracle
             * PostgreSQL连接器
+                * 连接到PostgreSQL
             * Redis连接器
-            * SQL服务连接器
+                * 连接到微软SQL服务器
+            * SQL连接器
         * 执行本地SQL
         * 非数据库连接器
+            * 邮件连接器
+            * 推送连接器
+            * 远程连接器
+                * 远程连接器例子
+                * 增强远程方法
+            * REST连接器
+                * SharePoint的REST例子
+                    * 创建后端
+                    * 增加客户端
+            * SOAP连接器
+            * 存储连接器
         * 社区连接器
         * 高级主题:数据源
     * 使用内置模型
