@@ -29,10 +29,63 @@
 
 * 
 操作node应用程序
-    * 
+    * 运行本地应用程序
+        * 用Arc运行应用
+        * 用slc运行应用
+    * 调试应用程序
+        * 用node inspector
+        * 快捷键
+    * 性能分析
+        * 用Arc分析
+            * 分析cpu
+            * 分析堆快照
+            * 智能分析
+        * 用slc分析
+            * 分析cpu
+            * 分析堆快照
+            * 智能分析
+    * 使用Process Manager
+        * 启动一个主机
+            * 卸载Process Manager服务
+        * 安置Process Manager
+        * 设置并查看环境变量
+        * 控制Process Manager
+        * Process Manager版本说明
+    * 构建并发布
+        * 最佳发布实践
+        * 用Arc构建并发布
+        * 用slc构建应用程序
+            * 安装依赖
+            * 打包依赖
+            * 创建build
+            * 提交build到git
+        * 用slc发布应用程序
+            * 发布应用到Process Manager
+            * 发布应用到Docker
+        * 用多包注册
+            * promoting一个包
+    * 扩展
+        * Clustering
+        * 扩展多服务器
+        * 开发集群应用
+    * 日志
+        * 用日志库
+        * 用Splunk
+    * 监控应用程序
+        * 启动监控
+        * 用Arc看性能指标
+        * 用slc监控
+            * 追踪对象
+            * 监控node事件循环
+            * 自定义监控值
+            * 通过DataDog查看监控值
+        * 监控值
+    * 追踪
 
 * 
 loopBack
+    * 
+
 
 * 
 StrongLoop API 网关
