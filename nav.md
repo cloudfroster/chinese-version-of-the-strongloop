@@ -151,6 +151,21 @@ loopBack
             * Querying关系模型
             * 嵌入式模型和关系
     * 连接模型到数据库
+        * 从模型中创建数据库schema
+        * 数据库连接器
+            * 内存连接器
+            * MongoDB连接器
+            * MySQL连接器
+            * Oracle连接器
+                * 安装Oracle连接器
+                * 连接到Oracle
+            * PostgreSQL连接器
+            * Redis连接器
+            * SQL服务连接器
+        * 执行本地SQL
+        * 非数据库连接器
+        * 社区连接器
+        * 高级主题:数据源
     * 使用内置模型
     * 使用数据
     * 增加应用逻辑
