@@ -182,8 +182,33 @@ loopBack
             * 存储连接器
         * 社区连接器
         * 高级主题:数据源
+            * 构建连接器
+                * 实现自动迁移
+                * 实现CRUD方法
+                * 实现模型发现
     * 使用内置模型
+        * 继承内置模型
+        * 创建数据表
+        * 模型属性
+        * 内置模型REST API
+            * PersistedModel REST API
+            * Access token REST API
+            * ACL REST API
+            * Application REST API
+            * Relation REST API
+            * Role REST API
+            * User REST API
     * 使用数据
+        * 创建,更新,删除数据
+        * 查询数据
+            * Fields 过滤器
+            * Include 过滤器
+            * Limit 过滤器
+            * Order 过滤器
+            * Skip 过滤器
+            * Where 过滤器
+        * 使用数据事务
+        * 实时服务端事件
     * 增加应用逻辑
     * 运行和调试应用
     * 预发布
