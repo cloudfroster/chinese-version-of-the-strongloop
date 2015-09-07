@@ -264,9 +264,49 @@ loopBack
             * 在浏览器运行LoopBack
             * 使用Browserify
     * 教程和例子
+        * LoopBack例子
+        * 博客帖子
     * 使用promises
-    * 参考
+    * 指南
+        * 命令行指南
+            * ACL生成器
+            * 程序生成器
+            * 启动脚本生成器
+            * 数据源生成器
+            * 例子生成器
+            * 中间件生成器
+            * 模型生成器
+            * 属性生成器
+            * 关系生成器
+            * Swagger生成器
+        * 项目布局指南
+            * package.json
+            * server目录
+                * component-config.json
+                * confi.json
+                * datasources.json
+                * middleware.json
+                * model-config.json
+                * server.js
+            * common目录
+                * 定义模型json文件
+            * client目录
+        * LoopBack API指南
+            * LoopBack指南
+            * LoopBack Data Source Juggler指南
+            * 基础模型对象
+            * 连接模型对象
+        * LoopBack类型
+        * 合法的名字
+        * LoopBack2.0发行说明
+            * 迁移到2.0版本
+            * 已知LoopBack的问题
+        * 最近更新
+        * 错误对象
     * 为LoopBack文档做贡献
+        * 文档样式指南
+        * 最近文档更新
+        * 翻译文档
     * 其他语言的文档
 
 
