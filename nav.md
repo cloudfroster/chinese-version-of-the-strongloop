@@ -232,11 +232,37 @@ loopBack
                 * 安装REST API
                 * 消息推送REST API
             * 教程:消息推送
+                * LoopBack应用程序
+                * 安卓客户端
+                * IOS客户端
+                * 混合推送
         * 存储组件
+            * 存储组件API
+            * 存储组件REST API
         * 第三方登录
+            * 配置provider.json
+            * 教程:第三方登录
         * 同步
+            * 同步例子
+            * 高级主题:同步
+            * 教程:离线同步
         * OAuth 2.0
     * 客户端SDK
+        * 安卓SDK
+            * 使用安卓SDK处理文件
+            * 使用安卓SDK推送消息
+            * 使用LocallnstallationL类
+        * IOS SDK
+        * Angularjs javascript SDK
+            * Angular例子
+            * AngularJs Grunt 插件
+            * 生成Angular API文档
+        * Xamarin SDK
+            * Xamarin客户端API
+            * Xamarin例子
+        * 客户端LoopBack
+            * 在浏览器运行LoopBack
+            * 使用Browserify
     * 教程和例子
     * 使用promises
     * 参考
