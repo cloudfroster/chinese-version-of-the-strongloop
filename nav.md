@@ -336,10 +336,29 @@ StrongLoop API 网关
     * 常见问题
     * 术语
     * 命令行指南
+        * slc arc
+        * slc build
+        * slc ctl
+        * slc debug
+        * slc deploy
+        * slc env
+        * slc loopback
+        * slc pm
+        * slc pmctl
+        * slc pm-install
+        * slc registry
+        * slc start
+        * sl-nginx-ctl
+        * sl-nginx-ctl-install
+        * sl-pm
+        * sl-pmctl
+        * sl-pm-install
     * Arc发布说明
+        * 已知问题
+        * 怎么发送一个问题报告
     * 最近文档更新
     * 其他StrongLoop模块
-
+    * 环境变量
 
 * 
 所有版本
