@@ -4,6 +4,7 @@
 * [简介](brief.md)
 * [目录](nav.md)
 * [安装StrongLoop](installStrongLoop/installStrongLoop.md)
+	* [撒旦个](installStrongLoop.md)
 * [创作APIs](composeAPIs/composeAPIs.md)
 * [操作node应用程序](operateNodeApp/operateNodeApp.md)
 * [loopBack](loopBack/loopBack.md)
