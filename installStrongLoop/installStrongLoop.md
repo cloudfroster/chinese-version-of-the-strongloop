@@ -1,17 +1,3 @@
-# 子目录
-##### [1.在windows系统上安装node和StrongLoop](installNodeStrongLoopWindows.md)
-##### [2.安装编译工具](installCompilerTools.md)
-##### [3.更新到最新版本](updateLastedVersion.md)
-##### [4.安装疑难问题](trouble.md)
-##### [5.防火墙内使用Arc](useArc.md)
-##### [6.管理licenses](licenses.md)
-##### [7.StrongLoop和社区](strongLoopAndCommunity.md)
-##### [8.云端使用StrongLoop](cloud.md)
-##### [8-1.Amazon EC2](amazonEc2.md)
-##### [8-2.Digital Ocean](digitalOcean.md)
-##### [8-3.Heroku](heroku.md)
-##### [8-4.IBM Softlayer](IBMSoftlayer.md)
-
 # 安装 StrongLoop
 如果你正在使用LoopBack开发一个node或者API程序它提供了无代码的API组件，同构模型，移动和AngularJS的SDK，安全，和许多额外的演变特征与一个蓬勃发展的社区,可以逛逛[谷歌LoopBack小组](https://groups.google.com/forum/#!forum/loopbackjs).
 
