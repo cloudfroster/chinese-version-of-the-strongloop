@@ -1,1 +1,2 @@
 # 管理licenses
+StrongLoop提供免费和收费服务.详情参看:[https://docs.strongloop.com/display/SL/Managing+your+licenses](https://docs.strongloop.com/display/SL/Managing+your+licenses "https://docs.strongloop.com/display/SL/Managing+your+licenses")
