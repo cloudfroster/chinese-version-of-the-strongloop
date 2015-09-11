@@ -8,3 +8,6 @@ Chinese version of the Strongloop
 译者:marchen
 
 书中有任何问题请联系:844033231@qq.com
+
+# Licence
+查看 [Licence](LICENCE.md)
