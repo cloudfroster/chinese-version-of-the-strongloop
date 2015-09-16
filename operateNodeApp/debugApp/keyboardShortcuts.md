@@ -1,7 +1,7 @@
 # 快捷键
 ## 键盘快捷键
 | Command | Mac | windows/linux |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------| :-----|
 |Find Next	|⌘G	|Ctrl-G|
 |Find Previous	|⇧⌘G	|Ctrl-Shift-G|
 |Focus Search Box	|⌘F	|Ctrl-F|
@@ -11,7 +11,7 @@
 
 ## 控制台快捷键
 | Command | Mac | windows/linux |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------| :-----|
 |Next Suggestion|	Tab	|Tab|
 |Previous Suggestion	|⇧Tab|	Shift-Tab|
 |Accept Suggestion	|Right	|Right|
@@ -19,12 +19,13 @@
 |Next Command / Line	|Down	|Down|
 |Previous Command	|⌃P	 | |
 |Next Command	|⌃N| |	 
+
 |Clear History	|⌘K or ⌃L|	Ctrl-L|
 |Execute	|Return	|Enter|
 
 ## 调试快捷键
 | Command | Mac | windows/linux |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------| :-----|
 |Select Next Call Frame	|⌃.	|Ctrl-.|
 |Select Previous Call Frame	|⌃,	|Ctrl-,|
 |Continue	|F8 or ⌘/	|F8 or Ctrl-/|

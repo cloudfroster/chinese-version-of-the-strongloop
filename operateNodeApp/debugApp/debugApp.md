@@ -3,15 +3,16 @@
 ## 概述
 使用node Inspector(用`slc debug`命令调用)来调试node应用程序.Node Inspector允许你:
 - 设置断点(特殊触发条件),禁止/允许所有断点.
-- Step over, step in, step out, 和从新执行.
+- Step over, step in, step out, 和重新执行代码.
 - 监视作用域,变量,和对象属性.
-- 通过移动鼠标到上面,显示表达式的值.
+- 通过移动鼠标到表达式上,显示表达式的值.
 - 编辑变量和对象属性.
-- 异常退出.
+- 捕获异常.
 
 ## 先决条件
 确保你安装了strongloop管理器.
-注意:Node Inspector当前只能在谷歌chrome和opera浏览器中运行.如果你不是用的这些,重新再这些浏览器中打开node inspector.
+
+注意:Node Inspector当前只能在谷歌chrome和opera浏览器中运行.如果你不是用的这些浏览器,重新在这些浏览器中打开node inspector.
 
 ## 启动调试器
 使用下面的命令来启动调试器:
@@ -38,4 +39,5 @@ $ pgrep -l node
 ```shell
 $ kill -s USR1 2345
 ```
-注意:windows不支持UNIX信号,所以你需要用不同的技术.
+
+注意:windows不支持UNIX信号,所以你需要用其他的技术.
