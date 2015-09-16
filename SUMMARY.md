@@ -27,6 +27,8 @@
 	* [从数据库映射模型](composeAPIs/discoverModels.md)
 * [操作node应用程序](operateNodeApp/operateNodeApp.md)
 	* [运行本地应用程序](runApp/runApp.md)
+		* [用Arc运行应用](runApp/runAppArc.md)
+		* [用slc运行应用](runApp/runAppSlc.md)
 	* [调试应用程序](debugApp/debugApp.md)
 	* [性能分析](profile/profile.md)
 	* [使用Process Manager](usePM/usePM.md)
