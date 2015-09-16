@@ -30,6 +30,8 @@
 		* [用Arc运行应用](runApp/runAppArc.md)
 		* [用slc运行应用](runApp/runAppSlc.md)
 	* [调试应用程序](debugApp/debugApp.md)
+		* [用node inspector](debugApp/useNodeInspector.md)
+		* [快捷键](debugApp/keyboardShortcuts.md)
 	* [性能分析](profile/profile.md)
 	* [使用Process Manager](usePM/usePM.md)
 	* [构建并发布](buildDeploy/buildDeploy.md)
