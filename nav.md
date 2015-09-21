@@ -88,8 +88,8 @@
 loopBack
     * 安装StrongLoop
         * 更新到最新版本
-        * StrongLoop实验室
     * LoopBack核心概念
+        * StrongLoop实验室
     * LoopBack FAQ
     * 安全建议
         * 安全建议 2015-1-9
