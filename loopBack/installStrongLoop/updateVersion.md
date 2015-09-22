@@ -1,6 +1,6 @@
 # 更新到最新版本
 - 基础更新
-- 清除久的安装包
+- 清除旧的安装包
 - 清除当前安装包
 - 更新node.js
 
@@ -12,7 +12,7 @@
 ```shell
 $ npm install -g strongloop
 ```
-## 清除久的安装包
+## 清除旧的安装包
 如果你在2014年8月6日之前安装的StrongLoop,键入以下命令来清楚久的安装包:
 ```shell
 $ npm uninstall -g strong-cli
