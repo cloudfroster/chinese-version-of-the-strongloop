@@ -38,7 +38,7 @@
 		* [更新到最新版本](installStrongLoop/updateVersion.md)
 	* [LoopBack核心概念](loopbackCore/loopbackCore.md)
 		* [StrongLoop实验室](loopbackCore/strongLoopLabs.md)
-	* [LoopBack FAQ](loopBackFAQ.md)
+		* [LoopBack FAQ](loopbackCore/loopBackFAQ.md)
 	* [安全建议](securityAd/securityAd.md)
 	* [开始使用LoopBack](getStart/getStart.md)
 	* [开始使用第二部分](getStart2/getStart2.md)

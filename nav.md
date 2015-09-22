@@ -90,7 +90,7 @@ loopBack
         * 更新到最新版本
     * LoopBack核心概念
         * StrongLoop实验室
-    * LoopBack FAQ
+        * LoopBack FAQ
     * 安全建议
         * 安全建议 2015-1-9
         * 安全建议 2015-6-4
